@@ -1,5 +1,5 @@
 My Details :
-  Name: Vangapandu Venkata Sai Surya Praaksh
+  Name: Vangapandu Venkata Sai Surya Prakash
   ROll No : 23B0925
   Mail: vvsuryaprakash1234@gmail.com
 
@@ -11,8 +11,7 @@ Inside Assignment-1b folder u can find index.html,styles.css,script.js
 
 
 IN ASSIGNMENT 2 Folder :
-There is no folder of node_modules because of files number limit but i have kept a zipped version of node_modules.
-When running unzip node_modules.
+There is no folder of node_modules because of files size limit,Sorry ...
 I added videos runing in mobile version,firefox desktop version.
 Highlights:
   U can edit,delete,save,a note.
